@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: burlywood;
+}
+
+.top-img{
+    background-image: url(./images/PAK85_prezentribon1278_TP_V4.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.top-text{
+    text-align: right;
+    padding: 150px 30px 150px;
+}
+
+.top-img h1{
+    font-size: 100px;
+    font-family: 'Allura', cursive;
+}
+
+nav h3{
+    font-size: 30px;
+    font-family: 'Allura', cursive;
+    color: #888;
+}
+
+nav i{
+    color: #888;
+}
+
+.happy{
+    background-image: url(./images/1639300827249_2.jpg);
+    background-size: 500px;
+    padding: 200px;
+    text-align: center;
+    background-attachment: fixed;
+    
+}
+
+.happy h2{
+    font-size: 80px;
+    font-family: 'Allura', cursive;
+
+}
+
+.carousel-inner{
+    padding: 70px;
+    background-image: url(./images/fix-bg.jpeg);
+    background-size: cover;
+    
+}
+
+.residence{
+    background-color: black;
+    text-align: center;
+    padding: 150px;
+}
+
+.residence h2{
+    font-family: 'Allura', cursive;
+    font-size: 100px;
+}
+
+.residence{
+    padding: 30px;
+}
+
+.happy2{
+    background-image: url(./images/fix-bg.jpeg);
+    background-size: cover;
+}
+
+#icon{
+    width: 400px;
+    height: 250px;
+}
+
+.info{
+    border: solid 2px burlywood;
+    margin: 30px;
+    padding: 30px;
+
+}
+
+.info p{
+    padding-top: 20px;
+}
+
+.word{
+    padding: 50px;
+}
+
+footer{
+    padding: 30px;
+
+}
+
+footer ul li{
+    list-style: none; 
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: burlywood;
+    font-size: 12px;
+}
+
+footer ul li a:hover{
+    color: white;
+}
+
+footer p{
+    text-align: right;
+}
+    
